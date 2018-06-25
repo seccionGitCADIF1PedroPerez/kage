@@ -1,0 +1,40 @@
+body {background: url(../imag/fondo.jpg);
+	
+	color: black;
+	font-family: 'Anton', sans-serif;}
+
+h1 {color: orange;
+	text-align: center;
+	text-decoration: overline;
+	background: #800000;
+	font-size: 60px;}
+
+button {background: orange;}
+
+h2 { color: #800000;
+	text-align: center;
+	text-decoration: underline;
+	font-size: 30px;}
+
+article {background: url(../imag/fondo.jpg)}
+
+h3  {color: #b30000;
+    text-decoration: underline;}
+
+p{text-indent: 20px; }
+
+#menufooter {list-style: square;
+			float: left;
+			display: inline;}
+
+#video1 {text-align: center;} 
+
+#video2 {text-align: center;} 
+
+#video3 {text-align: center;} 
+
+#video4 {text-align: center;} 
+
+#sesion {text-align: right;}
+
+
